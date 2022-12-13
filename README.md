@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Yousef Anwer Mokhaimer</h1>
 
 
- • 👨‍🎓 I'm currently studying CS in CS in Al-Aqsa University Palestine.
 
-• 👨‍💻 I'm presently learning Solidity for writing Web-Contracts with Web3.js.
 
-• 👀 I’m really interested to become a Blockchain developer.
 
-• 👨‍🏫 I’m a Open-Source contributer.
+<h3 align="left"> •👨‍🎓 I'm currently studying CS in CS in Al-Aqsa University Palestine.</h3><p align="left">
 
-• 💬 Ask me for help about Python, Wordpress, HTML, CSS, Javascript,
+ <h3 align="left"> •👨‍💻 I'm presently learning Solidity for writing Web-Contracts with Web3.js.</h3><p align="left">
 
-  PHP, laravel,Solidity, Data-Structures, Database, Data science, and Java.
+<h3 align="left"> •👀 I’m really interested to become a Blockchain developer.</h3> <p align="left">
+
+<h3 align="left">•👨‍🏫 I’m a Open-Source contributer.</h3><p align="left">
+
+<h3 align="left">• 💬 Ask me for help about Python, Wordpress, HTML, CSS, Javascript,
+
+PHP, laravel,Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left">
+
+__________________________________________________________________________________________________________________________________________
 
 
 <h3 align="left">• Connect with me:</h3>
 <p align="left">
-
-
-
-
 
 <a href="https://twitter.com/yousef_anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_anwer1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/yousef-anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yousef-anwer1" height="30" width="40" /></a>
