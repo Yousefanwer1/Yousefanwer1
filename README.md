@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yousef Anwer Mokhaimer</h1>
 
 
+ • 👨‍🎓 I'm currently studying CS in CS in Al-Aqsa University Palestine.
 
+• 👨‍💻 I'm presently learning Solidity for writing Web-Contracts with Web3.js.
+
+• 👀 I’m really interested to become a Blockchain developer.
+
+• 👨‍🏫 I’m a Open-Source contributer.
+
+• 💬 Ask me for help about Python, Wordpress, HTML, CSS, Javascript,
+
+  PHP, laravel,Solidity, Data-Structures, Database, Data science, and Java.
 
 
 <h3 align="left">• Connect with me:</h3>
