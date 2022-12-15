@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 <h3 align="left"> 🐍 A Snake Eating Away my Contributions</h3>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/101040488/207273856-3c81abb9-ff90-4e71-a9a9-0574f5a7d03e.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/101040488/207934453-4fa011bf-594e-4b97-9e1f-d54308607e66.svg)
 
 __________________________________________________________________________________________________________________________________________
 
