@@ -14,7 +14,7 @@
 
 <h3 align="left">• 💬 Ask me for help about Python, Wordpress, HTML, CSS, Javascript,
 
-PHP, laravel,Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left">
+PHP, laravel, Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left">
 
 __________________________________________________________________________________________________________________________________________
 
