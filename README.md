@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left"> •👨‍🎓 I'm currently studying CS in CS in Al-Aqsa University Palestine.</h3><p align="left">
+<h3 align="left"> •👨‍🎓 I'm currently studying CS in CS in Al Azhar University Palestine.</h3><p align="left">
 
  <h3 align="left"> •👨‍💻 I'm presently learning Solidity for writing Web-Contracts with Web3.js.</h3><p align="left">
 
