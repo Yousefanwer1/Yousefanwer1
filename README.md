@@ -40,7 +40,7 @@
 
 <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
 
   ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64616f75642d6875737361696e266c61796f75743d636f6d70616374266c616e67735f636f756e743d3726](https://user-images.githubusercontent.com/101040488/207275394-ad2f3e70-a36b-4d1f-9350-0c72fd5ed689.svg)
   
