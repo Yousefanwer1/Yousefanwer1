@@ -21,7 +21,7 @@
 
 <div>
 
-<h3> • <img src="shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
+<h3> • <img src="shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
 
 <a href="https://twitter.com/yousef_anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_anwer1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/yousef-anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yousef-anwer1" height="30" width="40" /></a>
@@ -38,12 +38,13 @@
 
 <!--Github stats!-->
 
-<p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+<p> • <img src="github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
-
-  ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64616f75642d6875737361696e266c61796f75743d636f6d70616374266c616e67735f636f756e743d3726](https://user-images.githubusercontent.com/101040488/207275394-ad2f3e70-a36b-4d1f-9350-0c72fd5ed689.svg)
-  
+<a href="https://github.com/yousefanwer1">
+  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefanwer1&" alt="yousefanwer1" /></p>
 
@@ -59,7 +60,7 @@
 
 <!--Used Languages and tools!-->
 
-🛠 Tools and Languages<br> 
+🛠 Tools and Languages</br> 
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -89,7 +90,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
  
 
-</div> <br>
+</div> </br>
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 
@@ -97,7 +98,7 @@
     
 <!--Contribution Graph Section!-->
 
-<h3 align="left"> 📈 Contribution Graph</h3><br> 
+<h3 align="left"> 📈 Contribution Graph</h3></br> 
 
 ![687474~1](https://user-images.githubusercontent.com/101040488/207271951-251e2251-6826-4bc2-914d-02fec9fb79ce.SVG)
 
