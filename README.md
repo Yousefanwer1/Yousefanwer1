@@ -108,11 +108,11 @@
 ### 🐍 A Snake Eating Away my Contributions
 
 <p align="center">
-  <img src="https://github.com/yousefanwer1/yousefanwer1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
 
 <!--Profile view counter API!-->
-<p align="left"> <img src="https://gpvc.arturio.dev/yousefanwer1" alt="acier" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
