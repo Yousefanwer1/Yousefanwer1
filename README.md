@@ -5,7 +5,7 @@
 <div align="left" >
 <img align="right" height="250" width="285" src="home.png" > <br>
 <!--• 👋  Hi I’m <a href="http://YousefAnwerMokhaimer.com" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br> -->
-•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://YousefAnwerMokhaimer.tech/" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br>
+•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="https://YousefAnwerMokhaimer.tech/" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="http://www.alazhar.edu.ps/"><b> Al Azhar University  Palestine</b>.</a><br>
 • 👨‍💻 I'm presently learning <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
