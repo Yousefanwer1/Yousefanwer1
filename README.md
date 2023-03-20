@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
 <a href="https://github.com/yousefanwer1">
-  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
