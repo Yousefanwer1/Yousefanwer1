@@ -38,7 +38,7 @@
 
 <!--Github stats!-->
 
-<p> • <img src="github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
+<p> •<img src="github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
 <a href="https://github.com/yousefanwer1">
