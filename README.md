@@ -12,7 +12,7 @@
 • 👨‍🏫 I’m a <b>Open-Source contributer</b> and a <b>Programming Teacher</b>. <br>
 • 🌱 I’m an <b>Eternal questioner</b> and <b>knowledge seeker </b>. <br>
 • 💞️ I’m looking to work with any progressive organization.<br>
-• 💬 Ask me for help about <b>Ask me for help about  Python, Wordpress, HTML, CSS, Javascript,PHP,  laravel, Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left">.</b>.<br>
+• 💬 Ask me for help about <b>Ask me for help about  Python, Wordpress, HTML, CSS, Javascript,PHP,  laravel, Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left"></b>
 </div>
 
 ##
@@ -21,7 +21,7 @@
 
 <div>
 
-<h3> • <img src="shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
+<h3> •<img src="shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
 
 <a href="https://twitter.com/yousef_anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_anwer1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/yousef-anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yousef-anwer1" height="30" width="40" /></a>
