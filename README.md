@@ -1,9 +1,9 @@
 <!--About myself!-->
 <div align="center" >  
-<img  src="Images/cover-photo.png" > </div>  </br> </a>
+<img  src="cover-photo.png" > </div>  </br> </a>
 
 <div align="left" >
-<img align="right" height="250" width="285" src="Images/home.png" > <br>
+<img align="right" height="250" width="285" src="home.png" > <br>
 <!--• 👋  Hi I’m <a href="http://YousefAnwerMokhaimer.com" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br> -->
 •  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://YousefAnwerMokhaimer.tech/" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="http://www.alazhar.edu.ps/"><b> Al Azhar University  Palestine</b>.</a><br>
