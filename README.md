@@ -1,11 +1,11 @@
 <!--About myself!-->
 <div align="center" >  
-<img  src="cover-photo.png" > </div>  </br> </a>
+<img  src="Images/cover-photo.png" > </div>  </br> </a>
 
 <div align="left" >
-<img align="right" height="250" width="285" src="home.png" > <br>
+<img align="right" height="250" width="285" src="Images/home.png" > <br>
 <!--• 👋  Hi I’m <a href="http://YousefAnwerMokhaimer.com" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br> -->
-•  <img src="shake-hand.gif" width="20px"> Hi I’m <a href="https://YousefAnwerMokhaimer.tech/" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br>
+•  <img src="Images/shake-hand.gif" width="20px"> Hi I’m <a href="https://YousefAnwerMokhaimer.tech/" target="_blank"><b>Yousef Anwer Mokhaimer</b>.</a> <br>
 • 👨‍🎓 I'm currently studying <b>CS</b> in <a href="http://www.alazhar.edu.ps/"><b> Al Azhar University  Palestine</b>.</a><br>
 • 👨‍💻 I'm presently learning <a href="https://soliditylang.org/"><b>Solidity</b></a> for writing <b>Web-Contracts with Web3.js</b>.<br>
 • 👀 I’m really interested to become a <b>Blockchain developer</b>.<br>
@@ -21,7 +21,7 @@
 
 <div>
 
-<h3> •<img src="shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
+<h3> •<img src="Images/shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
 
 <a href="https://twitter.com/yousef_anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_anwer1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/yousef-anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yousef-anwer1" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 
 <!--Github stats!-->
 
-<p> •<img src="github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
+<p> •<img src="Images/github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
 <a href="https://github.com/yousefanwer1">
@@ -97,21 +97,22 @@
 #
     
 <!--Contribution Graph Section!-->
-
-<h3 align="left"> 📈 Contribution Graph</h3></br> 
-
-![687474~1](https://user-images.githubusercontent.com/101040488/207271951-251e2251-6826-4bc2-914d-02fec9fb79ce.SVG)
-
+<!-- ### 📈 Contribution Graph
+ 
+   <br/>
+<a href="https://github.com/yousefanwer1"><img alt="yousefanwer1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousefanwer1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
+  -->
     
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 
 <p align="center">
-  <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/yousefanwer1/yousefanwer1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
 
 <!--Profile view counter API!-->
-<p align="left"> <img src="https://gpvc.arturio.dev/Daoud-Hussain" alt="acier" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/yousefanwer1" alt="acier" /> </p>
