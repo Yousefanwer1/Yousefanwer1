@@ -15,14 +15,15 @@
 • 💬 Ask me for help about <b>Ask me for help about  Python, Wordpress, HTML, CSS, Javascript,PHP,  laravel, Solidity, Data-Structures, Database, Data science, and Java.</h3><p align="left"></b>
 </div>
 
+
+
 ##
 
 <!--:Social Media Links!-->
 
 <div>
 
-<h3> •<img src="Images/shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> <br>
-
+<h3> •<img src="Images/shakehand.gif" width="35">  <b> Lets Connect! </b> </h3> </br>
 <a href="https://twitter.com/yousef_anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_anwer1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/yousef-anwer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/yousef-anwer1" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/yousef.anwer.2001/followers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/yousef.anwer.2001/followers" height="30" width="40" /></a>
@@ -38,12 +39,12 @@
 
 <!--Github stats!-->
 
-<p> •<img src="Images/github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p> </br>
+<p> •<img src="Images/github-stats.gif" width="30">  <b>  My GitHub Stats! </b> </p></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&locale=en" alt="yousefanwer1" /></p>
 <a href="https://github.com/yousefanwer1">
   <img height="150em " src="https://github-readme-stats.vercel.app/api?username=yousefanwer1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&layout=compact&langs_count=7&theme=dark"</br>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefanwer1&" alt="yousefanwer1" /></p>
@@ -88,8 +89,11 @@
  
 
 </div> </br>
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p></br>
     
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+    
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with.."></br>
 
 #
     
@@ -100,6 +104,16 @@
 <a href="https://github.com/yousefanwer1"><img alt="yousefanwer1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousefanwer1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
   -->
+  
+ <p align="center">
+<img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" width="300px"></p></br>
+<span>
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+ </p>
+ </span>
+  
+<span></br>
     
  <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
@@ -108,7 +122,7 @@
   <img src="https://github.com/Daoud-Hussain/Daoud-Hussain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile.."></br>
     
 
 <!--Profile view counter API!-->
