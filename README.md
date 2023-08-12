@@ -53,8 +53,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefanwer1" alt="yousefanwer1" /></a> </p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats.."></br>
-
+ 
 
 <!--Used Languages and tools!-->
 
